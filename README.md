@@ -6,6 +6,6 @@ This repository contains a Python-based tool that performs searches on Wikipedia
 **Data Chunking**: Chunks key information from the retrieved Wikipedia pages.  
 **Tagging and Categorization**: Use Gemini function calls to tag and categorize the extracted information.  
 
-Note:  
+## Note:  
 You mignt need to change paths based on your project structure.  
 You need to populate your API keys for this to run  
