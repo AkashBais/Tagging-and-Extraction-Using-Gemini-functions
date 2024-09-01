@@ -1,0 +1,31 @@
+torch == 2.3.1
+transformers == 4.41.2
+accelerate == 0.31.0 
+bitsandbytes == 0.43.1
+langchain == 0.2.11
+langchain-google-genai #== 1.0.8
+langchain-google-vertexai
+sentence-transformers == 2.7.0
+langchain-community == 0.2.0
+langchain_openai == 0.1.7
+langchain-huggingface
+
+faiss-gpu == 1.7.2
+openpyxl == 3.1.4 
+pacmap == 0.7.3 
+
+
+
+
+python-dotenv
+pypdf == 4.2.0
+googlesearch_python == 1.2.4
+
+nest_asyncio == 1.6.0
+playwright == 1.44.0
+
+einops == 0.8.0
+flash-attn
+
+wikipedia == 1.4.0
+pydantic == 2.8.2
